@@ -1,3 +1,7 @@
+npm create svelte@latest my-app  
+
+Note the above command creates a new folder named my-app and also names the app my-app in package.json  
+
 create-svelte version 2.1.0  
   
 Welcome to SvelteKit!  
